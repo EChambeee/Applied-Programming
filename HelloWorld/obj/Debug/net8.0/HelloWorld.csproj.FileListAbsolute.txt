@@ -1,0 +1,15 @@
+O:\BYU Idaho\2025 - Spring\Applied Programming\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+O:\BYU Idaho\2025 - Spring\Applied Programming\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+O:\BYU Idaho\2025 - Spring\Applied Programming\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+O:\BYU Idaho\2025 - Spring\Applied Programming\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+O:\BYU Idaho\2025 - Spring\Applied Programming\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+O:\BYU Idaho\2025 - Spring\Applied Programming\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+O:\BYU Idaho\2025 - Spring\Applied Programming\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+O:\BYU Idaho\2025 - Spring\Applied Programming\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+O:\BYU Idaho\2025 - Spring\Applied Programming\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+O:\BYU Idaho\2025 - Spring\Applied Programming\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
+O:\BYU Idaho\2025 - Spring\Applied Programming\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+O:\BYU Idaho\2025 - Spring\Applied Programming\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+O:\BYU Idaho\2025 - Spring\Applied Programming\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+O:\BYU Idaho\2025 - Spring\Applied Programming\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+O:\BYU Idaho\2025 - Spring\Applied Programming\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
