@@ -4,7 +4,6 @@ from datetime import datetime
 conn = sqlite3.connect('movies.db')
 cursor = conn.cursor()
 
-# Create the table
 cursor.execute('''
 CREATE TABLE IF NOT EXISTS movies (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -16,14 +15,12 @@ CREATE TABLE IF NOT EXISTS movies (
 ''')
 conn.commit()
 
-# Functions to interact with the database
 def add_movie():
     title = input("Enter movie title: ")
     genre = input("Enter genre: ")
     rating = int(input("Enter rating (1-10): "))
     watched_on = input("Enter date watched (MM-DD-YYYY): ")
-    try:
-        # Convert MM-DD-YYYY to YYYY-MM-DD for SQLite
+    try
         date_obj = datetime.strptime(watched_on, '%m-%d-%Y')
         formatted_date = date_obj.strftime('%Y-%m-%d')
         cursor.execute('''
@@ -68,7 +65,6 @@ def show_aggregates():
     print(f"Average rating: {average:.2f}" if average else "Average rating: N/A")
     print()
 
-# Main loop
 def main():
     while True:
         print("Movie Rating Database")
