@@ -1,38 +1,37 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This project helped me to understand how beckend systems interact with databasses by buiding a database that you can add, view, search, and delete movies.
 
-{Provide a description of the software that you wrote and how it integrates with a SQL Relational Database. Describe how to use your program.}
+This software is a command-line interface where users can interact with the database. They can add a movie with title, view all the movies in the database, search for the specific movie by title, and delete a movie.
 
-{Describe your purpose for writing this software.}
+My purpose for writin gthis was to get familiar with CRUD operations in SQL and backend integration.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of how created the Relational Database.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]File in submission
 
 # Relational Database
 
-{Describe the relational database you are using.}
+The project uses a relational SQL database to store movie data.
 
-{Describe the structure (tables) of the relational database that you created.}
+In the movies table there is: Id, title, director, year, and genre.
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+VS Code to write the code. SQLite for the dadtabase. Terminal for running the script.
 
-{Describe the programming language that you used and any libraries.}
+Python with SQLite built in and node.js.
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Python sqlite3](https://docs.python.org/3.8/library/sqlite3.html)
+- [SQLite Tutorial](https://www.sqlitetutorial.net/)
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
 
-- Item 1
-- Item 2
-- Item 3
+- Add input validation to make sure there are no empty fields.
+- Make it edit existing records
+- Add sorting and filtering.
