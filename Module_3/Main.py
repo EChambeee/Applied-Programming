@@ -20,7 +20,7 @@ def add_movie():
     genre = input("Enter genre: ")
     rating = int(input("Enter rating (1-10): "))
     watched_on = input("Enter date watched (MM-DD-YYYY): ")
-    try
+    try:
         date_obj = datetime.strptime(watched_on, '%m-%d-%Y')
         formatted_date = date_obj.strftime('%Y-%m-%d')
         cursor.execute('''
